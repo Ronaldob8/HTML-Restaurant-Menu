@@ -1,4 +1,4 @@
-html,
+.html,
 body {
     margin: 0;
     padding: 0;
@@ -39,6 +39,7 @@ nav ul {
 
 nav li {
     display: inline;
+    background-color: beige;
 }
 
 nav a {
